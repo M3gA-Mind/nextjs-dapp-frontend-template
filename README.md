@@ -1,4 +1,4 @@
-# Toshi Launcher
+# Nextjs DApp Template
 
 A modern Web3 application launcher built with Next.js 15, TypeScript, and the latest Web3 technologies.
 
