@@ -29,8 +29,7 @@ A modern Web3 application launcher built with Next.js 15, TypeScript, and the la
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd toshi-launcher
+git clone https://github.com/M3gA-Mind/vezures-nextjs-frontend-template.git
 ```
 
 2. Install dependencies:
