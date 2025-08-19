@@ -19,7 +19,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Toshi Launcher
+            Nextjs DApp Template
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
             A modern Web3 application launcher

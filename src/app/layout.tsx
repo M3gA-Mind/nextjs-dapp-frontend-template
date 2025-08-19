@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Toshi Launcher",
+  title: "Nextjs DApp Template",
   description: "A modern Web3 application launcher",
 };
 
